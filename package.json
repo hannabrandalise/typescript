@@ -1,0 +1,22 @@
+{
+  "name": "typescript_gama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts",
+    "start": "node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannabrandalise/typescript-gama.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannabrandalise/typescript-gama/issues"
+    },
+    "homepage": "https://github.com/hannabrandalise/typescript-gama#readme"
+}
